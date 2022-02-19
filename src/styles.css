@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+body, html {
+    margin: 10px;
+    background: var(--surface-b);
+    font-family: var(--font-family);
+}
+
+.font-layout{
+    color: var(--text-color);
+}
